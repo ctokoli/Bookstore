@@ -26,6 +26,7 @@ const Books = () => {
           author: 'Jane Austen',
         },
     ])
+    setBooks
     return (
         <>
             <BookItems
