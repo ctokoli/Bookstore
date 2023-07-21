@@ -8,11 +8,11 @@ import Books from './components/Books'
 
 const App = () =>  (
    <BrowserRouter>
-    <Routes>
-      <Route path='/' element={<NavLayout />}></Route>
-       <Route index element={<Books />} />
-      <Route path='/categories' element={<CategoriesPage />}></Route>
-    </Routes>
+      <NavLayout / >
+      <Routes>
+        <Route  path='/' element={<Books />} />
+        <Route path='/categories' element={<CategoriesPage />}></Route>
+      </Routes>
    </BrowserRouter>
 )
 
