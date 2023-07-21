@@ -10,6 +10,6 @@ const BooksItem = ({bookItem}) => {
 }
  
 BooksItem.propTypes = {
-    bookItem: PropTypes.array.isRequired, 
+    bookItem: PropTypes.object.isRequired, 
 }
 export default BooksItem;
