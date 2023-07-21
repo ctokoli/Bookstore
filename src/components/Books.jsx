@@ -1,4 +1,6 @@
 import { useState } from "react"
+import BookItems from "./BookItems";
+import BookForm from "./BookForm";
 
 
 const Books = () => {
@@ -26,7 +28,10 @@ const Books = () => {
     ])
     return (
         <>
-            
+            <BookItems
+                booksProps={books}
+            />
+            <BookForm />
         </>
     );
 }
