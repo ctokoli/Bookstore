@@ -25,13 +25,13 @@
   - [📝 License ](#-license-)
 
 # 📖 Math Magicians React App <a name="about-project"></a>
-This is a React project were i create a single page Application using React JS Technology. I create a Calculator App.  
+This is a React project were i create a single page Application using React JS. I create a Bookstore App .  
 
 
 
 <div align="center">
 
-  <h3><b>Math Magicians React App</b></h3>
+  <h3><b>Bookstore</b></h3>
 
 </div>
 
@@ -56,7 +56,7 @@ This is a React project were i create a single page Application using React JS T
 ### Key Features <a name="key-features"></a>
 
 - **Create Single Page App**
-- **Create Calculator**
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -80,7 +80,7 @@ In order to run this project you need:
 Clone this repository to your desired folder or download the Zip folder:
 
 ```
-https://github.com/ctokoli/Math-Magicians-React-App.git
+https://github.com/ctokoli/Bookstore.git
 ```
 
 - Navigate to the location of the folder in your machine:
