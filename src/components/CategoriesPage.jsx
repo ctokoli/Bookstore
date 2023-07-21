@@ -1,7 +1,7 @@
 const CategoriesPage = () => {
     return ( 
         <div>
-            <h4>Categories Pahe</h4>
+            <h2>Categories Page</h2>
         </div>
      );
 }
