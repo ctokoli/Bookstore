@@ -10,8 +10,6 @@ const NavLayout = () => {
                     <Link to="/categories">Categories</Link>
                 </li>
             </ul>
-
-            
         </nav>
         <Outlet />
        </>
